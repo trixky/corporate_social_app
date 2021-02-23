@@ -1,4 +1,4 @@
-# social_app
+# corporate_social_app
 
 My third cheap application with [flutter](https://flutter.dev/) (visual only).
 
