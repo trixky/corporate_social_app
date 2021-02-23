@@ -1,11 +1,11 @@
-# login_page
+# social_app
 
 My second cheap application with [flutter](https://flutter.dev/) (visual only).
 
-![screenshot](https://raw.githubusercontent.com/trixky/login_page/master/demo/iphone_12_pro_max_screen_1.png)
-![screenshot](https://raw.githubusercontent.com/trixky/login_page/master/demo/iphone_12_pro_max_screen_2.png)
-![screenshot](https://raw.githubusercontent.com/trixky/login_page/master/demo/pixel_3a_xl_screen_1.png)
-![screenshot](https://raw.githubusercontent.com/trixky/login_page/master/demo/pixel_3a_xl_screen_2.png)
+![screenshot](https://raw.githubusercontent.com/trixky/social_app/master/demo/iphone_12_pro_max_screen_1.png)
+![screenshot](https://raw.githubusercontent.com/trixky/social_app/master/demo/iphone_12_pro_max_screen_2.png)
+![screenshot](https://raw.githubusercontent.com/trixky/social_app/master/demo/pixel_3a_xl_screen_1.png)
+![screenshot](https://raw.githubusercontent.com/trixky/social_app/master/demo/pixel_3a_xl_screen_2.png)
 
 ## Usage
 
