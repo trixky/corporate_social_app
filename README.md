@@ -2,9 +2,9 @@
 
 My third cheap application with [flutter](https://flutter.dev/) (visual only).
 
-![screenshot](https://raw.githubusercontent.com/trixky/corporate_social_app/master/demo/screen_1.png)
-![screenshot](https://raw.githubusercontent.com/trixky/corporate_social_app/master/demo/screen_2.png)
-![screenshot](https://raw.githubusercontent.com/trixky/corporate_social_app/master/demo/screen_3.png)
+![screenshot](https://raw.githubusercontent.com/trixky/corporate_social_app/master/.demo/screen_1.png)
+![screenshot](https://raw.githubusercontent.com/trixky/corporate_social_app/master/.demo/screen_2.png)
+![screenshot](https://raw.githubusercontent.com/trixky/corporate_social_app/master/.demo/screen_3.png)
 
 ## Usage
 
